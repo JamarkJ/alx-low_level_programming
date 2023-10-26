@@ -3,9 +3,9 @@
 /**
   * _print_rev_recursion - main function
   *
-  * *s: Function parameter
+  * @s: Function parameter
   *
-  * Return: Voidu
+  * Return: Void
   */
 void _print_rev_recursion(char *s)
 {
